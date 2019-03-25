@@ -1,0 +1,18 @@
+.differences-contact{
+  display: inline-flex;
+  margin-left: 10%;
+}
+
+.contact_dev{
+  font-weight: bold !important;
+}
+
+.name_dev{
+  display: inline-flex;
+  font-weight: bold;
+}
+
+
+.name_dev:hover{
+  color: rgb(0, 173, 247) !important;
+}

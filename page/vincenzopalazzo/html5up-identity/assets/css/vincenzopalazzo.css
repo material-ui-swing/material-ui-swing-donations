@@ -1,0 +1,16 @@
+.bio_banner{
+  margin-top: 2%;
+  padding: 1%;
+  -moz-transition: opacity 1s ease, -moz-transform 1s ease;
+  -webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
+  -ms-transition: opacity 1s ease, -ms-transform 1s ease;
+  transition: opacity 1s ease, transform 1s ease;
+  background: #2d2a2a;
+  border-radius: 4px;
+  cursor: default;
+  max-width: 100%;
+  opacity: 0.95;
+  position: relative;
+  text-align: center;
+  width: 27em;;
+}

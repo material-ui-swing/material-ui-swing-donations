@@ -14,3 +14,13 @@
   text-align: center;
   width: 27em;;
 }
+
+#donation-bitcoin{
+  display: none;
+  margin-left: 0px;
+  padding: 1em;
+}
+
+.donation-id-bitcoin{
+    padding-left: 0em;
+}
